@@ -1,0 +1,15 @@
+# Large files
+*.pth
+*.h5
+*.pt
+
+# Data
+data/
+*.csv
+*.zip
+
+# Environment
+.env
+venv/
+
+default/
